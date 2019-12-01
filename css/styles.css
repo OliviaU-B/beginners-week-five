@@ -5,3 +5,12 @@ body {
   padding: 3rem 1.5rem;
   text-align: center;
 }
+
+.row {
+  background-color: blue;
+  border-color: black;
+}
+
+.col-sm {
+  border-color: black;
+}
